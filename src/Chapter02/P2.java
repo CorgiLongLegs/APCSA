@@ -1,7 +1,7 @@
 package Chapter02;
 
-
 import java.util.Scanner;//the actual scanner is in the java uti package
+
 /**
  * Finds the cost of food, tip, and tax
  *

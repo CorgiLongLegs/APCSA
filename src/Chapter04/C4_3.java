@@ -1,12 +1,12 @@
 package Chapter04;
 
 import java.util.Scanner;
+
 /**
  * Calculates employee's pay
  *
  * @author Jacob Fraley
  */
-
 public class C4_3 {
 
     /**

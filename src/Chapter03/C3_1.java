@@ -1,7 +1,7 @@
 package Chapter03;
 
-
 import java.util.Scanner;
+
 /**
  * Finds the future day
  *

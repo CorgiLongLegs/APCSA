@@ -1,7 +1,7 @@
 package Chapter04;
 
-
 import java.util.Scanner;
+
 /**
  * Tells if the string entered is a substring of the first string entered
  *

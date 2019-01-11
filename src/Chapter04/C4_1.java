@@ -1,13 +1,15 @@
 package Chapter04;
 
 import java.util.Scanner;
+
 /**
  * Abbreviates major
  *
  * @author Jacob Fraley
  */
 public class C4_1 {
-/**
+
+    /**
      * Main method
      *
      * @param args command line arguments

@@ -1,7 +1,7 @@
 package Chapter04;
 
-
 import java.util.Scanner;
+
 /**
  * Calculates which bidder wins
  *
