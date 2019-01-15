@@ -1,7 +1,7 @@
 package Chapter03;
 
-
 import java.util.Scanner;
+
 /**
  * Tells if the 3 digit number is a palindromeF
  *

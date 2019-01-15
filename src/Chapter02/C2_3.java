@@ -1,7 +1,7 @@
 package Chapter02;
 
-
 import java.util.Scanner;
+
 /**
  * Finds the cost of driving
  *
